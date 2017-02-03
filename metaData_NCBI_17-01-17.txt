@@ -1,0 +1,329 @@
+AgR297			Mycobacterium bovis		AgR297	BOVINE		2009	New Zealand: WESTCOAST	Culture																				
+AgR197			Mycobacterium bovis		AgR197	POSSUM		1983	New Zealand: WESTCOAST	Culture																				
+12754_7#32			Mycobacterium bovis		12754_7#32	CERVINE		2003	New Zealand: TAIHAPE	Culture																				
+12755_8#27			Mycobacterium bovis		12755_8#27	BOVINE		2013	New Zealand: Northland	Culture																				
+12754_7#93			Mycobacterium bovis		12754_7#93	POSSUM		1997	New Zealand: MANAWATU	Culture																				
+12754_7#9			Mycobacterium bovis		12754_7#9	CERVINE		1998	New Zealand: OTAGO	Culture																				
+12754_7#12			Mycobacterium bovis		12754_7#12	POSSUM		1997	New Zealand: KING COUNTRY	Culture																				
+12754_7#83			Mycobacterium bovis		12754_7#83	POSSUM		1985	New Zealand: MACKENZIE COUNTRY	Culture																				
+12754_8#9			Mycobacterium bovis		12754_8#9	FERRET		2001	New Zealand: OTAGO	Culture																				
+AgR308			Mycobacterium bovis		AgR308	BOVINE		2009	New Zealand: WESTCOAST	Culture																				
+12754_7#27			Mycobacterium bovis		12754_7#27	BOVINE		1984	New Zealand: KING COUNTRY	Culture																				
+12755_8#10			Mycobacterium bovis		12755_8#10	BOVINE		2005	New Zealand: BLENHEIM	Culture																				
+AgR292			Mycobacterium bovis		AgR292	POSSUM		1984	New Zealand: WESTCOAST	Culture																				
+AgR155			Mycobacterium bovis		AgR155	POSSUM		1983	New Zealand: WESTCOAST	Culture																				
+AgR290			Mycobacterium bovis		AgR290	POSSUM		1985	New Zealand: WESTCOAST	Culture																				
+AgR260			Mycobacterium bovis		AgR260	PORCINE		1999	New Zealand: WESTCOAST	Culture																				
+AgR267			Mycobacterium bovis		AgR267	CERVINE		1999	New Zealand: WESTCOAST	Culture																				
+12754_8#70			Mycobacterium bovis		12754_8#70	FERRET		2005	New Zealand: CANTERBURY	Culture																				
+12754_7#21			Mycobacterium bovis		12754_7#21	BOVINE		2002	New Zealand: OTAGO	Culture																				
+12754_8#91			Mycobacterium bovis		12754_8#91	BOVINE		2001	New Zealand: NORTH CANT.	Culture																				
+N49			Mycobacterium bovis		N49	BOVINE		2013	New Zealand: TARANAKI	Culture																				
+12755_8#20			Mycobacterium bovis		12755_8#20	FELINE		2002	New Zealand: MARLBOROUGH	Culture																				
+AgR272			Mycobacterium bovis		AgR272	BOVINE		2010	New Zealand: WESTCOAST	Culture																				
+12754_8#33			Mycobacterium bovis		12754_8#33	BOVINE		1993	New Zealand: SOUTHLAND	Culture																				
+12754_8#81			Mycobacterium bovis		12754_8#81	BOVINE		1998	New Zealand: WANGANUI	Culture																				
+12754_7#55			Mycobacterium bovis		12754_7#55	CERVINE		1994	New Zealand: TAUPO	Culture																				
+AgR146			Mycobacterium bovis		AgR146	POSSUM		1984	New Zealand: WESTCOAST	Culture																				
+AgR316			Mycobacterium bovis		AgR316	BOVINE		2006	New Zealand: WESTCOAST	Culture																				
+12754_8#12			Mycobacterium bovis		12754_8#12	BOVINE		2000	New Zealand: BLENHEIM	Culture																				
+12754_8#42			Mycobacterium bovis		12754_8#42	BOVINE		1995	New Zealand: SOUTHLAND	Culture																				
+AgR132			Mycobacterium bovis		AgR132	POSSUM		1982	New Zealand: WESTCOAST	Culture																				
+12754_7#65			Mycobacterium bovis		12754_7#65	FERRET		2003	New Zealand: HAWKES BAY	Culture																				
+12754_7#79			Mycobacterium bovis		12754_7#79	CERVINE		1999	New Zealand: OTAGO	Culture																				
+12754_7#51			Mycobacterium bovis		12754_7#51	FERRET		1993	New Zealand: CENTRAL OTAGO	Culture																				
+12755_8#9			Mycobacterium bovis		12755_8#9	FERRET		2006	New Zealand: NORTH CANT.	Culture																				
+12754_7#5			Mycobacterium bovis		12754_7#5	BOVINE		1995	New Zealand: EAST COAST	Culture																				
+AgR313			Mycobacterium bovis		AgR313	BOVINE		2003	New Zealand: WESTCOAST	Culture																				
+12754_7#74			Mycobacterium bovis		12754_7#74	FERRET		1992	New Zealand: SOUTH CANTERBURY	Culture																				
+AgR128			Mycobacterium bovis		AgR128	BOVINE		1989	New Zealand: WESTCOAST	Culture																				
+12754_7#30			Mycobacterium bovis		12754_7#30	BOVINE		1984	New Zealand: KING COUNTRY	Culture																				
+AgR122			Mycobacterium bovis		AgR122	FERRET		1992	New Zealand: MACKENZIECOUNTRY	Culture																				
+12755_8#14			Mycobacterium bovis		12755_8#14	BOVINE		2008	New Zealand: KAIKOURA	Culture																				
+AgR304			Mycobacterium bovis		AgR304	POSSUM		1984	New Zealand: WESTCOAST	Culture																				
+12754_8#66			Mycobacterium bovis		12754_8#66	BOVINE		2003	New Zealand: SOUTHLAND	Culture																				
+N42			Mycobacterium bovis		N42	BOVINE		2013	New Zealand: TARANAKI	Culture																				
+12754_8#63			Mycobacterium bovis		12754_8#63	BOVINE		2000	New Zealand: SOUTHLAND	Culture																				
+12755_8#4			Mycobacterium bovis		12755_8#4	PORCINE		2006	New Zealand: CANTERBURY	Culture																				
+12754_8#34			Mycobacterium bovis		12754_8#34	BOVINE		1995	New Zealand: NORTH CANT.	Culture																				
+AgR300			Mycobacterium bovis		AgR300	POSSUM		1992	New Zealand: WESTCOAST	Culture																				
+12754_7#46			Mycobacterium bovis		12754_7#46	BOVINE		2001	New Zealand: HAWKES BAY	Culture																				
+AgR276			Mycobacterium bovis		AgR276	BOVINE		2005	New Zealand: WESTCOAST	Culture																				
+12754_7#37			Mycobacterium bovis		12754_7#37	BOVINE		1999	New Zealand: KING COUNTRY	Culture																				
+12754_8#23			Mycobacterium bovis		12754_8#23	FELINE		1993	New Zealand: NORTH CANT.	Culture																				
+12754_7#28			Mycobacterium bovis		12754_7#28	BOVINE		2002	New Zealand: HAWKES BAY	Culture																				
+12754_8#49			Mycobacterium bovis		12754_8#49	BOVINE		2005	New Zealand: NORTH CANT.	Culture																				
+12754_8#55			Mycobacterium bovis		12754_8#55	BOVINE		2005	New Zealand: KAIKOURA	Culture																				
+12754_7#75			Mycobacterium bovis		12754_7#75	BOVINE		1987	New Zealand: MACKENZIE COUNTRY	Culture																				
+12754_8#92			Mycobacterium bovis		12754_8#92	CERVINE		2004	New Zealand: CANTERBURY	Culture																				
+12754_8#45			Mycobacterium bovis		12754_8#45	BOVINE		1997	New Zealand: SOUTHLAND	Culture																				
+N50			Mycobacterium bovis		N50	BOVINE		2013	New Zealand: TARANAKI	Culture																				
+12754_8#60			Mycobacterium bovis		12754_8#60	BOVINE		2002	New Zealand: SOUTHLAND	Culture																				
+AgR240			Mycobacterium bovis		AgR240	BOVINE		2004	New Zealand: WESTCOAST	Culture																				
+AgR310			Mycobacterium bovis		AgR310	BOVINE		2007	New Zealand: KAIKOURA	Culture																				
+AgR248			Mycobacterium bovis		AgR248	BOVINE		2008	New Zealand: WESTCOAST	Culture																				
+AgR301			Mycobacterium bovis		AgR301	BOVINE		2004	New Zealand: WESTCOAST	Culture																				
+12754_8#51			Mycobacterium bovis		12754_8#51	BOVINE		2004	New Zealand: SOUTHLAND	Culture																				
+12754_8#37			Mycobacterium bovis		12754_8#37	POSSUM		2001	New Zealand: BLENHEIM	Culture																				
+12754_7#71			Mycobacterium bovis		12754_7#71	BOVINE		1997	New Zealand: OTAGO	Culture																				
+12754_7#11			Mycobacterium bovis		12754_7#11	BOVINE		1996	New Zealand: EAST COAST	Culture																				
+12754_7#59			Mycobacterium bovis		12754_7#59	CERVINE		2001	New Zealand: OTAGO	Culture																				
+12755_8#16			Mycobacterium bovis		12755_8#16	BOVINE		2006	New Zealand: KAIKOURA	Culture																				
+AgR234			Mycobacterium bovis		AgR234	BOVINE		2011	New Zealand: WESTCOAST	Culture																				
+AgR191			Mycobacterium bovis		AgR191	PORCINE		1988	New Zealand: WESTCOAST	Culture																				
+12754_7#86			Mycobacterium bovis		12754_7#86	BOVINE		2005	New Zealand: MANAWATU	Culture																				
+AgR296			Mycobacterium bovis		AgR296	POSSUM		2006	New Zealand: WESTCOAST	Culture																				
+12755_8#5			Mycobacterium bovis		12755_8#5	BOVINE		1998	New Zealand: CANTERBURY	Culture																				
+AgR266			Mycobacterium bovis		AgR266	POSSUM		2007	New Zealand: WESTCOAST	Culture																				
+AgR125			Mycobacterium bovis		AgR125	FERRET		1992	New Zealand: MACKENZIECOUNTRY	Culture																				
+12755_8#1			Mycobacterium bovis		12755_8#1	BOVINE		2007	New Zealand: WEST COAST	Culture																				
+AgR252			Mycobacterium bovis		AgR252	POSSUM		1999	New Zealand: WESTCOAST	Culture																				
+12754_7#58			Mycobacterium bovis		12754_7#58	BOVINE		1995	New Zealand: MANAWATU	Culture																				
+N19			Mycobacterium bovis		N19	BOVINE		2009	New Zealand: TARANAKI	Culture																				
+12754_8#38			Mycobacterium bovis		12754_8#38	BOVINE		1994	New Zealand: SOUTHLAND	Culture																				
+12754_7#54			Mycobacterium bovis		12754_7#54	BOVINE		2005	New Zealand: TAIHAPE	Culture																				
+AgR280			Mycobacterium bovis		AgR280	POSSUM		2011	New Zealand: TAUPO	Culture																				
+12754_7#82			Mycobacterium bovis		12754_7#82	BOVINE		1998	New Zealand: MANAWATU	Culture																				
+12754_8#11			Mycobacterium bovis		12754_8#11	POSSUM		1988	New Zealand: MACKENZIE COUNTRY	Culture																				
+12754_7#73			Mycobacterium bovis		12754_7#73	FERRET		1997	New Zealand: MANAWATU	Culture																				
+12754_7#19			Mycobacterium bovis		12754_7#19	PORCINE		2004	New Zealand: OTAGO	Culture																				
+12754_8#3			Mycobacterium bovis		12754_8#3	FERRET		2006	New Zealand: TAIHAPE	Culture																				
+AgR121			Mycobacterium bovis		AgR121	BOVINE		1988	New Zealand: MACKENZIECOUNTRY	Culture																				
+12754_7#90			Mycobacterium bovis		12754_7#90	FERRET		1992	New Zealand: OTAGO	Culture																				
+12754_8#19			Mycobacterium bovis		12754_8#19	FERRET		2002	New Zealand: BLENHEIM	Culture																				
+AgR255			Mycobacterium bovis		AgR255	BOVINE		2008	New Zealand: WESTCOAST	Culture																				
+12754_8#48			Mycobacterium bovis		12754_8#48	BOVINE		1990	New Zealand: HAWKES BAY	Culture																				
+AgR302			Mycobacterium bovis		AgR302	BOVINE		2007	New Zealand: WESTCOAST	Culture																				
+AgR237			Mycobacterium bovis		AgR237	BOVINE		2003	New Zealand: WESTCOAST	Culture																				
+12755_8#6			Mycobacterium bovis		12755_8#6	FERRET		2006	New Zealand: CANTERBURY	Culture																				
+AgR229			Mycobacterium bovis		AgR229	BOVINE		2001	New Zealand: WESTCOAST	Culture																				
+AgR232			Mycobacterium bovis		AgR232	POSSUM		2007	New Zealand: WESTCOAST	Culture																				
+AgR285			Mycobacterium bovis		AgR285	BOVINE		2010	New Zealand: WESTCOAST	Culture																				
+AgR213			Mycobacterium bovis		AgR213	CERVINE		1994	New Zealand: WESTCOAST	Culture																				
+AgR268			Mycobacterium bovis		AgR268	BOVINE		2005	New Zealand: WESTCOAST	Culture																				
+12754_8#77			Mycobacterium bovis		12754_8#77	BOVINE		2004	New Zealand: SOUTHLAND	Culture																				
+N31			Mycobacterium bovis		N31	POSSUM		2012	New Zealand: WESTCOAST	Culture																				
+12755_8#21			Mycobacterium bovis		12755_8#21	BOVINE		2009	New Zealand: Waikato	Culture																				
+12754_7#33			Mycobacterium bovis		12754_7#33	BOVINE		2002	New Zealand: OTAGO	Culture																				
+12754_7#26			Mycobacterium bovis		12754_7#26	POSSUM		1983	New Zealand: KING COUNTRY	Culture																				
+12754_7#49			Mycobacterium bovis		12754_7#49	POSSUM		1992	New Zealand: OTAGO	Culture																				
+12754_8#83			Mycobacterium bovis		12754_8#83	POSSUM		2001	New Zealand: MARLBOROUGH	Culture																				
+12754_7#77			Mycobacterium bovis		12754_7#77	BOVINE		1992	New Zealand: TAIHAPE	Culture																				
+AgR145			Mycobacterium bovis		AgR145	POSSUM		1985	New Zealand: WESTCOAST	Culture																				
+12755_8#26			Mycobacterium bovis		12755_8#26	BOVINE		2013	New Zealand: Northland	Culture																				
+12755_8#19			Mycobacterium bovis		12755_8#19	PORCINE		2006	New Zealand: CANTERBURY	Culture																				
+12754_8#80			Mycobacterium bovis		12754_8#80	BOVINE		1991	New Zealand: NORTH CANT.	Culture																				
+12754_7#84			Mycobacterium bovis		12754_7#84	BOVINE		1999	New Zealand: OTAGO	Culture																				
+12754_8#16			Mycobacterium bovis		12754_8#16	BOVINE		2001	New Zealand: SOUTHLAND	Culture																				
+12754_7#3			Mycobacterium bovis		12754_7#3	CERVINE		1994	New Zealand: TAUPO	Culture																				
+12754_7#38			Mycobacterium bovis		12754_7#38	BOVINE		2001	New Zealand: TAUPO	Culture																				
+12754_7#64			Mycobacterium bovis		12754_7#64	BOVINE		2002	New Zealand: TAIHAPE	Culture																				
+AgR317			Mycobacterium bovis		AgR317	POSSUM		2005	New Zealand: WESTCOAST	Culture																				
+12754_8#56			Mycobacterium bovis		12754_8#56	FERRET		2002	New Zealand: BLENHEIM	Culture																				
+AgR259			Mycobacterium bovis		AgR259	POSSUM		2009	New Zealand: WESTCOAST	Culture																				
+12754_8#24			Mycobacterium bovis		12754_8#24	PORCINE		1992	New Zealand: BLENHEIM	Culture																				
+12754_7#40			Mycobacterium bovis		12754_7#40	BOVINE		1992	New Zealand: WANGANUI	Culture																				
+AgR245			Mycobacterium bovis		AgR245	BOVINE		2008	New Zealand: WESTCOAST	Culture																				
+AgR283			Mycobacterium bovis		AgR283	POSSUM		1999	New Zealand: WESTCOAST	Culture																				
+AgR271			Mycobacterium bovis		AgR271	BOVINE		2010	New Zealand: WESTCOAST	Culture																				
+12755_8#15			Mycobacterium bovis		12755_8#15	POSSUM		1998	New Zealand: WEST COAST	Culture																				
+AgR284			Mycobacterium bovis		AgR284	BOVINE		2001	New Zealand: WESTCOAST	Culture																				
+12754_8#78			Mycobacterium bovis		12754_8#78	CERVINE		2004	New Zealand: NORTH CANT.	Culture																				
+AgR263			Mycobacterium bovis		AgR263	BOVINE		2008	New Zealand: WESTCOAST	Culture																				
+AgR295			Mycobacterium bovis		AgR295	BOVINE		2008	New Zealand: WESTCOAST	Culture																				
+AgR126			Mycobacterium bovis		AgR126	FERRET		1991	New Zealand: MACKENZIECOUNTRY	Culture																				
+N52			Mycobacterium bovis		N52	BOVINE		2013	New Zealand: WESTCOAST	Culture																				
+12754_7#10			Mycobacterium bovis		12754_7#10	BOVINE		2002	New Zealand: HAWKES BAY	Culture																				
+12755_8#28			Mycobacterium bovis		12755_8#28	BOVINE		2013	New Zealand: Northland	Culture																				
+12755_8#22			Mycobacterium bovis		12755_8#22	BOVINE		2009	New Zealand: Waikato	Culture																				
+12754_8#74			Mycobacterium bovis		12754_8#74	BOVINE		2003	New Zealand: NORTH CANT.	Culture																				
+12754_7#34			Mycobacterium bovis		12754_7#34	FERRET		1998	New Zealand: TAUPO	Culture																				
+AgR228			Mycobacterium bovis		AgR228	BOVINE		2011	New Zealand: CENTRALCANTERBURY	Culture																				
+12754_8#41			Mycobacterium bovis		12754_8#41	BOVINE		1996	New Zealand: NORTH CANT.	Culture																				
+AgR291			Mycobacterium bovis		AgR291	POSSUM		1999	New Zealand: WESTCOAST	Culture																				
+AgR233			Mycobacterium bovis		AgR233	BOVINE		2010	New Zealand: WESTCOAST	Culture																				
+12754_7#78			Mycobacterium bovis		12754_7#78	BOVINE		1998	New Zealand: CHRISTCHURCH	Culture																				
+AgR251			Mycobacterium bovis		AgR251	BOVINE		2006	New Zealand: WESTCOAST	Culture																				
+12754_7#87			Mycobacterium bovis		12754_7#87	BOVINE		1997	New Zealand: OTAGO	Culture																				
+12754_7#8			Mycobacterium bovis		12754_7#8	BOVINE		2001	New Zealand: HAWKES BAY	Culture																				
+12754_8#29			Mycobacterium bovis		12754_8#29	POSSUM		1992	New Zealand: NORTH CANT.	Culture																				
+12755_8#13			Mycobacterium bovis		12755_8#13	BOVINE		2009	New Zealand: CANTERBURY	Culture																				
+12754_8#6			Mycobacterium bovis		12754_8#6	BOVINE		2008	New Zealand: OTAGO	Culture																				
+12754_8#32			Mycobacterium bovis		12754_8#32	BOVINE		1992	New Zealand: NORTH CANT.	Culture																				
+12754_8#15			Mycobacterium bovis		12754_8#15	POSSUM		1993	New Zealand: BLENHEIM	Culture																				
+12754_8#5			Mycobacterium bovis		12754_8#5	BOVINE		2006	New Zealand: HAWKES BAY	Culture																				
+12754_7#22			Mycobacterium bovis		12754_7#22	BOVINE		2002	New Zealand: WANGANUI	Culture																				
+12754_7#31			Mycobacterium bovis		12754_7#31	BOVINE		1994	New Zealand: WANGANUI	Culture																				
+12754_8#52			Mycobacterium bovis		12754_8#52	BOVINE		2005	New Zealand: NORTH CANT.	Culture																				
+AgR249			Mycobacterium bovis		AgR249	POSSUM		1999	New Zealand: WESTCOAST	Culture																				
+12754_8#20			Mycobacterium bovis		12754_8#20	FERRET		1993	New Zealand: KAIKOURA	Culture																				
+12754_7#70			Mycobacterium bovis		12754_7#70	BOVINE		1997	New Zealand: OTAGO	Culture																				
+12754_7#61			Mycobacterium bovis		12754_7#61	BOVINE		1999	New Zealand: WAIKATO	Culture																				
+12754_7#13			Mycobacterium bovis		12754_7#13	BOVINE		1998	New Zealand: TAUPO	Culture																				
+12754_7#16			Mycobacterium bovis		12754_7#16	BOVINE		1998	New Zealand: KING COUNTRY	Culture																				
+AgR288			Mycobacterium bovis		AgR288	BOVINE		2011	New Zealand: WESTCOAST	Culture																				
+12754_8#86			Mycobacterium bovis		12754_8#86	POSSUM		1994	New Zealand: CANTERBURY	Culture																				
+12754_8#94			Mycobacterium bovis		12754_8#94	PORCINE		2001	New Zealand: MARLBOROUGH	Culture																				
+12754_7#92			Mycobacterium bovis		12754_7#92	BOVINE		1996	New Zealand: AUCKLAND	Culture																				
+12755_8#25			Mycobacterium bovis		12755_8#25	BOVINE		2013	New Zealand: Northland	Culture																				
+12754_8#73			Mycobacterium bovis		12754_8#73	BOVINE		2000	New Zealand: BLENHEIM	Culture																				
+AgR305			Mycobacterium bovis		AgR305	BOVINE		2008	New Zealand: NORTHCANT.	Culture																				
+AgR150			Mycobacterium bovis		AgR150	CERVINE		1988	New Zealand: MACKENZIECOUNTRY	Culture																				
+12754_8#18			Mycobacterium bovis		12754_8#18	POSSUM		2001	New Zealand: MARLBOROUGH	Culture																				
+12754_7#14			Mycobacterium bovis		12754_7#14	BOVINE		1998	New Zealand: TAUPO	Culture																				
+12754_7#91			Mycobacterium bovis		12754_7#91	BOVINE		1999	New Zealand: NAPIER	Culture																				
+12755_8#12			Mycobacterium bovis		12755_8#12	BOVINE		2009	New Zealand: NORTH CANT.	Culture																				
+12754_8#47			Mycobacterium bovis		12754_8#47	FERRET		2003	New Zealand: MARLBOROUGH	Culture																				
+12755_8#7			Mycobacterium bovis		12755_8#7	BOVINE		2006	New Zealand: KAIKOURA	Culture																				
+12754_8#69			Mycobacterium bovis		12754_8#69	FERRET		2002	New Zealand: MARLBOROUGH	Culture																				
+12754_8#2			Mycobacterium bovis		12754_8#2	BOVINE		2008	New Zealand: TAIHAPE	Culture																				
+AgR269			Mycobacterium bovis		AgR269	BOVINE		2008	New Zealand: WESTCOAST	Culture																				
+AgR250			Mycobacterium bovis		AgR250	BOVINE		2006	New Zealand: WESTCOAST	Culture																				
+12754_7#45			Mycobacterium bovis		12754_7#45	BOVINE		1996	New Zealand: WANGANUI	Culture																				
+12754_8#82			Mycobacterium bovis		12754_8#82	STOAT		2005	New Zealand: CANTERBURY	Culture																				
+AgR222			Mycobacterium bovis		AgR222	BOVINE		1987	New Zealand: MACKENZIECOUNTRY	Culture																				
+12754_7#4			Mycobacterium bovis		12754_7#4	BOVINE		1994	New Zealand: EAST COAST	Culture																				
+12754_8#44			Mycobacterium bovis		12754_8#44	PORCINE		2001	New Zealand: BLENHEIM	Culture																				
+12754_8#36			Mycobacterium bovis		12754_8#36	FERRET		1993	New Zealand: NORTH CANT.	Culture																				
+AgR238			Mycobacterium bovis		AgR238	BOVINE		2011	New Zealand: WESTCOAST	Culture																				
+AgR254			Mycobacterium bovis		AgR254	BOVINE		2010	New Zealand: WESTCOAST	Culture																				
+12754_8#62			Mycobacterium bovis		12754_8#62	FERRET		2004	New Zealand: SOUTHLAND	Culture																				
+AgR275			Mycobacterium bovis		AgR275	BOVINE		2007	New Zealand: WESTCOAST	Culture																				
+12755_8#3			Mycobacterium bovis		12755_8#3	BOVINE		2010	New Zealand: CANTERBURY	Culture																				
+12754_7#72			Mycobacterium bovis		12754_7#72	POSSUM		1985	New Zealand: BANKS PENINSULA	Culture																				
+12754_8#65			Mycobacterium bovis		12754_8#65	FERRET		2002	New Zealand: BLENHEIM	Culture																				
+N28			Mycobacterium bovis		N28	POSSUM		2012	New Zealand: WESTCOAST	Culture																				
+AgR202			Mycobacterium bovis		AgR202	POSSUM		1982	New Zealand: WESTCOAST	Culture																				
+12754_8#57			Mycobacterium bovis		12754_8#57	BOVINE		2005	New Zealand: BLENHEIM	Culture																				
+12755_8#18			Mycobacterium bovis		12755_8#18	BOVINE		2009	New Zealand: CANTERBURY	Culture																				
+AgR225			Mycobacterium bovis		AgR225	FERRET		1997	New Zealand: MACKENZIECOUNTRY	Culture																				
+AgR274			Mycobacterium bovis		AgR274	BOVINE		2006	New Zealand: WESTCOAST	Culture																				
+12754_7#41			Mycobacterium bovis		12754_7#41	BOVINE		2008	New Zealand: HAWKES BAY	Culture																				
+12754_7#56			Mycobacterium bovis		12754_7#56	FERRET		1996	New Zealand: MANAWATU	Culture																				
+AgR281			Mycobacterium bovis		AgR281	POSSUM		1992	New Zealand: WESTCOAST	Culture																				
+12754_8#59			Mycobacterium bovis		12754_8#59	BOVINE		2005	New Zealand: NORTH CANT.	Culture																				
+N29			Mycobacterium bovis		N29	BOVINE		2013	New Zealand: TARANAKI	Culture																				
+12754_7#85			Mycobacterium bovis		12754_7#85	BOVINE		1998	New Zealand: OTAGO	Culture																				
+12754_8#26			Mycobacterium bovis		12754_8#26	PORCINE		1992	New Zealand: SOUTHLAND	Culture																				
+12754_7#50			Mycobacterium bovis		12754_7#50	FERRET		2004	New Zealand: TAUPO	Culture																				
+12754_7#63			Mycobacterium bovis		12754_7#63	BOVINE		2000	New Zealand: TAUPO	Culture																				
+12754_7#57			Mycobacterium bovis		12754_7#57	BOVINE		1996	New Zealand: WAIKATO	Culture																				
+12754_7#68			Mycobacterium bovis		12754_7#68	POSSUM		1998	New Zealand: TAUPO	Culture																				
+12754_7#88			Mycobacterium bovis		12754_7#88	FERRET		2007	New Zealand: TAIHAPE	Culture																				
+AgR244			Mycobacterium bovis		AgR244	BOVINE		2011	New Zealand: WESTCOAST	Culture																				
+AgR314			Mycobacterium bovis		AgR314	BOVINE		2006	New Zealand: WESTCOAST	Culture																				
+12755_8#2			Mycobacterium bovis		12755_8#2	BOVINE		2007	New Zealand: NORTH CANT.	Culture																				
+AgR136			Mycobacterium bovis		AgR136	BOVINE		1991	New Zealand: MACKENZIECOUNTRY	Culture																				
+12754_8#89			Mycobacterium bovis		12754_8#89	BOVINE		1999	New Zealand: KAIKOURA	Culture																				
+N47			Mycobacterium bovis		N47	BOVINE		2013	New Zealand: TARANAKI	Culture																				
+AgR270			Mycobacterium bovis		AgR270	BOVINE		2002	New Zealand: WESTCOAST	Culture																				
+12754_8#21			Mycobacterium bovis		12754_8#21	BOVINE		1993	New Zealand: NORTH CANT.	Culture																				
+12754_7#17			Mycobacterium bovis		12754_7#17	BOVINE		2003	New Zealand: HAWKES BAY	Culture																				
+12754_7#60			Mycobacterium bovis		12754_7#60	BOVINE		2002	New Zealand: HAWKES BAY	Culture																				
+12754_7#35			Mycobacterium bovis		12754_7#35	FERRET		2003	New Zealand: HAWKES BAY	Culture																				
+12754_8#40			Mycobacterium bovis		12754_8#40	BOVINE		1994	New Zealand: BLENHEIM	Culture																				
+12754_8#58			Mycobacterium bovis		12754_8#58	BOVINE		2002	New Zealand: SOUTHLAND	Culture																				
+12754_8#75			Mycobacterium bovis		12754_8#75	CERVINE		2003	New Zealand: NORTH CANT.	Culture																				
+N16			Mycobacterium bovis		N16	BOVINE		2009	New Zealand: TARANAKI	Culture																				
+12754_7#48			Mycobacterium bovis		12754_7#48	POSSUM		2000	New Zealand: OTAGO	Culture																				
+N53			Mycobacterium bovis		N53	BOVINE		2013	New Zealand: WESTCOAST	Culture																				
+N38			Mycobacterium bovis		N38	BOVINE		2013	New Zealand: TARANAKI	Culture																				
+AgR262			Mycobacterium bovis		AgR262	BOVINE		2005	New Zealand: WESTCOAST	Culture																				
+AgR242			Mycobacterium bovis		AgR242	BOVINE		2007	New Zealand: WESTCOAST	Culture																				
+12754_7#53			Mycobacterium bovis		12754_7#53	BOVINE		1994	New Zealand: OTAGO	Culture																				
+12754_7#25			Mycobacterium bovis		12754_7#25	BOVINE		1998	New Zealand: TAUPO	Culture																				
+12754_7#43			Mycobacterium bovis		12754_7#43	BOVINE		2006	New Zealand: HAWKES BAY	Culture																				
+12754_8#85			Mycobacterium bovis		12754_8#85	CERVINE		1993	New Zealand: NORTH CANT.	Culture																				
+12754_7#94			Mycobacterium bovis		12754_7#94	CERVINE		1997	New Zealand: OTAGO	Culture																				
+12754_8#7			Mycobacterium bovis		12754_8#7	CERVINE		1992	New Zealand: OTAGO	Culture																				
+12754_8#39			Mycobacterium bovis		12754_8#39	FERRET		2001	New Zealand: BLENHEIM	Culture																				
+AgR303			Mycobacterium bovis		AgR303	BOVINE		1989	New Zealand: WESTCOAST	Culture																				
+12754_7#67			Mycobacterium bovis		12754_7#67	BOVINE		2000	New Zealand: HAWKES BAY	Culture																				
+12754_8#28			Mycobacterium bovis		12754_8#28	BOVINE		1999	New Zealand: SOUTHLAND	Culture																				
+12754_8#14			Mycobacterium bovis		12754_8#14	PORCINE		1992	New Zealand: BLENHEIM	Culture																				
+12754_8#31			Mycobacterium bovis		12754_8#31	PORCINE		1987	New Zealand: KAIKOURA	Culture																				
+N23			Mycobacterium bovis		N23	BOVINE		2013	New Zealand: TARANAKI	Culture																				
+12754_7#1			Mycobacterium bovis		12754_7#1	POSSUM		1988	New Zealand: KING COUNTRY	Culture																				
+AgR236			Mycobacterium bovis		AgR236	CERVINE		1994	New Zealand: WESTCOAST	Culture																				
+12754_7#23			Mycobacterium bovis		12754_7#23	BOVINE		2005	New Zealand: TAUPO	Culture																				
+12754_7#81			Mycobacterium bovis		12754_7#81	BOVINE		2005	New Zealand: OTAGO	Culture																				
+12754_8#53			Mycobacterium bovis		12754_8#53	BOVINE		1999	New Zealand: NORTH CANT.	Culture																				
+12754_8#79			Mycobacterium bovis		12754_8#79	FERRET		1999	New Zealand: CANTERBURY	Culture																				
+12755_8#8			Mycobacterium bovis		12755_8#8	BOVINE		2005	New Zealand: NORTH CANT.	Culture																				
+12754_7#36			Mycobacterium bovis		12754_7#36	BOVINE		2002	New Zealand: KAITANGATA	Culture																				
+12754_8#4			Mycobacterium bovis		12754_8#4	POSSUM		1992	New Zealand: SOUTHLAND	Culture																				
+AgR227			Mycobacterium bovis		AgR227	CERVINE		2001	New Zealand: WESTCOAST	Culture																				
+AgR239			Mycobacterium bovis		AgR239	POSSUM		2002	New Zealand: WESTCOAST	Culture																				
+AgR261			Mycobacterium bovis		AgR261	BOVINE		2005	New Zealand: WESTCOAST	Culture																				
+12754_8#87			Mycobacterium bovis		12754_8#87	BOVINE		2005	New Zealand: KAIKOURA	Culture																				
+12755_8#11			Mycobacterium bovis		12755_8#11	BOVINE		2007	New Zealand: SOUTHLAND	Culture																				
+AgR306			Mycobacterium bovis		AgR306	POSSUM		2006	New Zealand: WESTCOAST	Culture																				
+12754_8#46			Mycobacterium bovis		12754_8#46	FERRET		1993	New Zealand: NORTH CANT.	Culture																				
+12754_8#1			Mycobacterium bovis		12754_8#1	BOVINE		2007	New Zealand: TAIHAPE	Culture																				
+AgR309			Mycobacterium bovis		AgR309	BOVINE		2008	New Zealand: KAIKOURA	Culture																				
+AgR282			Mycobacterium bovis		AgR282	PORCINE		2004	New Zealand: WESTCOAST	Culture																				
+12755_8#24			Mycobacterium bovis		12755_8#24	BOVINE		2006	New Zealand: Waikato	Culture																				
+12754_8#71			Mycobacterium bovis		12754_8#71	FERRET		1996	New Zealand: NORTH CANT.	Culture																				
+AgR111			Mycobacterium bovis		AgR111	POSSUM		1987	New Zealand: MACKENZIECOUNTRY	Culture																				
+AgR253			Mycobacterium bovis		AgR253	BOVINE		2005	New Zealand: WESTCOAST	Culture																				
+12754_7#15			Mycobacterium bovis		12754_7#15	BOVINE		1998	New Zealand: KING COUNTRY	Culture																				
+12755_8#23			Mycobacterium bovis		12755_8#23	BOVINE		2006	New Zealand: Waikato	Culture																				
+12754_7#39			Mycobacterium bovis		12754_7#39	BOVINE		2002	New Zealand: HAWKES BAY	Culture																				
+12754_7#62			Mycobacterium bovis		12754_7#62	BOVINE		1999	New Zealand: OTAGO	Culture																				
+12754_8#43			Mycobacterium bovis		12754_8#43	FERRET		2002	New Zealand: BLENHEIM	Culture																				
+12754_7#44			Mycobacterium bovis		12754_7#44	BOVINE		2001	New Zealand: HAWKES BAY	Culture																				
+12754_8#68			Mycobacterium bovis		12754_8#68	BOVINE		1991	New Zealand: NORTH CANT.	Culture																				
+AgR299			Mycobacterium bovis		AgR299	BOVINE		2010	New Zealand: WESTCOAST	Culture																				
+AgR247			Mycobacterium bovis		AgR247	BOVINE		2002	New Zealand: WESTCOAST	Culture																				
+12754_7#7			Mycobacterium bovis		12754_7#7	BOVINE		2001	New Zealand: HAWKES BAY	Culture																				
+N36			Mycobacterium bovis		N36	BOVINE		2013	New Zealand: TARANAKI	Culture																				
+12754_8#25			Mycobacterium bovis		12754_8#25	POSSUM		1993	New Zealand: BLENHEIM	Culture																				
+12754_8#13			Mycobacterium bovis		12754_8#13	BOVINE		1993	New Zealand: BLENHEIM	Culture																				
+12754_8#35			Mycobacterium bovis		12754_8#35	FERRET		1998	New Zealand: SOUTHLAND	Culture																				
+AgR294			Mycobacterium bovis		AgR294	POSSUM		1992	New Zealand: WESTCOAST	Culture																				
+AgR264			Mycobacterium bovis		AgR264	POSSUM		1989	New Zealand: WESTCOAST	Culture																				
+AgR246			Mycobacterium bovis		AgR246	BOVINE		2008	New Zealand: WESTCOAST	Culture																				
+12754_8#8			Mycobacterium bovis		12754_8#8	POSSUM		1985	New Zealand: OTAGO	Culture																				
+12754_7#20			Mycobacterium bovis		12754_7#20	BOVINE		2006	New Zealand: TAUPO	Culture																				
+AgR273			Mycobacterium bovis		AgR273	BOVINE		2007	New Zealand: WESTCOAST	Culture																				
+12754_8#95			Mycobacterium bovis		12754_8#95	BOVINE		2004	New Zealand: NORTH CANT.	Culture																				
+12754_8#10			Mycobacterium bovis		12754_8#10	FERRET		1993	New Zealand: OTAGO	Culture																				
+12754_8#72			Mycobacterium bovis		12754_8#72	BOVINE		2005	New Zealand: KAIKOURA	Culture																				
+12754_8#17			Mycobacterium bovis		12754_8#17	BOVINE		1992	New Zealand: NORTH CANT.	Culture																				
+12754_7#52			Mycobacterium bovis		12754_7#52	FERRET		1996	New Zealand: MANAWATU	Culture																				
+12754_8#22			Mycobacterium bovis		12754_8#22	POSSUM		1983	New Zealand: KING COUNTRY	Culture																				
+AgR210			Mycobacterium bovis		AgR210	POSSUM		1984	New Zealand: WESTCOAST	Culture																				
+12754_7#76			Mycobacterium bovis		12754_7#76	BOVINE		1997	New Zealand: NORTH OTAGO	Culture																				
+12754_7#29			Mycobacterium bovis		12754_7#29	BOVINE		2002	New Zealand: HAWKES BAY	Culture																				
+AgR265			Mycobacterium bovis		AgR265	BOVINE		2004	New Zealand: WESTCOAST	Culture																				
+12754_7#47			Mycobacterium bovis		12754_7#47	FERRET		1999	New Zealand: ROTORUA	Culture																				
+12754_8#64			Mycobacterium bovis		12754_8#64	FERRET		2008	New Zealand: MARLBOROUGH	Culture																				
+AgR315			Mycobacterium bovis		AgR315	BOVINE		2003	New Zealand: MARLBOROUGH	Culture																				
+12754_7#6			Mycobacterium bovis		12754_7#6	POSSUM		2000	New Zealand: TAUPO	Culture																				
+12754_8#88			Mycobacterium bovis		12754_8#88	BOVINE		1993	New Zealand: CANTERBURY	Culture																				
+12754_8#67			Mycobacterium bovis		12754_8#67	BOVINE		1999	New Zealand: KAIKOURA	Culture																				
+12754_7#95			Mycobacterium bovis		12754_7#95	POSSUM		1999	New Zealand: NORTH OTAGO	Culture																				
+12754_8#27			Mycobacterium bovis		12754_8#27	PORCINE		1982	New Zealand: KAIKOURA	Culture																				
+N27			Mycobacterium bovis		N27	BOVINE		2008	New Zealand: TARANAKI	Culture																				
+12754_8#54			Mycobacterium bovis		12754_8#54	POSSUM		1989	New Zealand: NORTH OTAGO	Culture																				
+12754_8#93			Mycobacterium bovis		12754_8#93	BOVINE		2004	New Zealand: NORTH CANT.	Culture																				
+12754_8#76			Mycobacterium bovis		12754_8#76	BOVINE		1999	New Zealand: CANTERBURY	Culture																				
+AgR206			Mycobacterium bovis		AgR206	PORCINE		1988	New Zealand: WESTCOAST	Culture																				
+12754_8#84			Mycobacterium bovis		12754_8#84	BOVINE		2004	New Zealand: HAWKES BAY	Culture																				
+12754_8#61			Mycobacterium bovis		12754_8#61	FERRET		2003	New Zealand: CANTERBURY	Culture																				
+12754_7#69			Mycobacterium bovis		12754_7#69	BOVINE		2007	New Zealand: WAIKATO	Culture																				
+12754_7#89			Mycobacterium bovis		12754_7#89	BOVINE		2006	New Zealand: MANAWATU	Culture																				
+12754_8#50			Mycobacterium bovis		12754_8#50	BOVINE		2004	New Zealand: KAIKOURA	Culture																				
+N37			Mycobacterium bovis		N37	BOVINE		2013	New Zealand: TARANAKI	Culture																				
+12754_7#80			Mycobacterium bovis		12754_7#80	BOVINE		2008	New Zealand: MANAWATU	Culture																				
+12754_7#18			Mycobacterium bovis		12754_7#18	FERRET		2004	New Zealand: TAUPO	Culture																				
+12754_7#42			Mycobacterium bovis		12754_7#42	POSSUM		1988	New Zealand: WANGANUI	Culture																				
+12754_7#66			Mycobacterium bovis		12754_7#66	POSSUM		1999	New Zealand: OTAGO	Culture																				
+12754_8#90			Mycobacterium bovis		12754_8#90	POSSUM		1996	New Zealand: NORTH CANT.	Culture																				
+AgR200			Mycobacterium bovis		AgR200	POSSUM		1985	New Zealand: WESTCOAST	Culture																				
+12755_8#17			Mycobacterium bovis		12755_8#17	BOVINE		2009	New Zealand: CANTERBURY	Culture																				
+N11			Mycobacterium bovis		N11	BOVINE		2009	New Zealand: TARANAKI	Culture																				
+12754_7#24			Mycobacterium bovis		12754_7#24	BOVINE		1992	New Zealand: WANGANUI	Culture																				
+AgR235			Mycobacterium bovis		AgR235	BOVINE		1998	New Zealand: WESTCOAST	Culture																				
+12754_8#30			Mycobacterium bovis		12754_8#30	BOVINE		1998	New Zealand: SOUTHLAND	Culture																				
+12754_7#2			Mycobacterium bovis		12754_7#2	BOVINE		1993	New Zealand: KING COUNTRY	Culture																				
